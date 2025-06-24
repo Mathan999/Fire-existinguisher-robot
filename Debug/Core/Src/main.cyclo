@@ -1,0 +1,8 @@
+main.c:29:5:main	6
+main.c:71:6:move_forward	1
+main.c:79:6:stop_motor	1
+main.c:84:6:spray_water	1
+main.c:93:6:set_servo_angle	5
+main.c:109:6:SystemClock_Config	1
+main.c:138:13:MX_GPIO_Init	1
+main.c:174:6:Error_Handler	1
